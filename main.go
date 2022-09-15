@@ -1,12 +1,8 @@
 package main
 
-import (
-	"fmt"
-	"Go_Intro/data"
-)
-
+import "fmt"
 
 func main(){
-	fmt.Println(data.Name)
-
+	fmt.Println("Hello world")
 }
+

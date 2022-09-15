@@ -1,9 +1,8 @@
 package data
 
-import "fmt"
 
 var Name = "Steven"
 
-func Soso() {
-	fmt.Println(Name)
+func hello() string {
+	return "Hello world"
 }
